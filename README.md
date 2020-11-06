@@ -7,4 +7,5 @@ Outputted files:
 - <https://annnguyen.github.io/nyt-2020-election-scraper/battleground-state-changes.csv>
 
 Fork: https://github.com/alex/nyt-2020-election-scraper
+
 Inspired by Simon Willison: https://simonwillison.net/2020/Oct/9/git-scraping/
