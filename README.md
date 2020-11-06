@@ -2,8 +2,9 @@ Scrapes the NYT Votes Remaining Page JSON and commits it back to this repo. The 
 
 Outputted files:
 
-- <https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html>
-- <https://github.com/alex/nyt-2020-election-scraper/blob/master/battleground-state-changes.txt>
-- <https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.csv>
+- <https://annnguyen.github.io/nyt-2020-election-scraper/battleground-state-changes.html>
+- <https://github.com/annnguyen/nyt-2020-election-scraper/blob/master/battleground-state-changes.txt>
+- <https://annnguyen.github.io/nyt-2020-election-scraper/battleground-state-changes.csv>
 
+Fork: https://github.com/alex/nyt-2020-election-scraper
 Inspired by Simon Willison: https://simonwillison.net/2020/Oct/9/git-scraping/
